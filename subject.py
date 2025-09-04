@@ -1,4 +1,4 @@
-from person import Teacher
+from person import Teacher  #it'st import system
 from school import School
 
 class Subject : 
